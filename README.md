@@ -1,10 +1,10 @@
-# Hackintosh: Gigabyte X570 Aorus Master + 5950X + RX 580 8GB
+# Gigabyte X570 Aorus Master + 5950X + RX 580 8GB
 
 ![About This Mac - Overview](https://user-images.githubusercontent.com/23700365/136425298-61e799ff-7392-448f-8f28-637d4d83c6c5.png)
 
 **Latest working macOS**: 12.0
 <br>
-**Current OpenCore**: 0.7.4
+**Current OpenCore**: 0.7.6
 
 ## Complete hardware specs
 - AMD Ryzen 5950X
