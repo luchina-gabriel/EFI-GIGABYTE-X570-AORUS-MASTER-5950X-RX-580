@@ -1,10 +1,10 @@
-# Gigabyte X570 Aorus Master + 5950X + RX 580 8GB
+# Gigabyte X570 Aorus Master + 5950X + AsRock RX 580 8GB
 
 ![About This Mac - Overview](https://user-images.githubusercontent.com/23700365/136425298-61e799ff-7392-448f-8f28-637d4d83c6c5.png)
 
-**Latest working macOS**: 12.0
+**Latest working macOS**: 12.1
 <br>
-**Current OpenCore**: 0.7.6
+**Current OpenCore**: 0.7.7
 
 ## Complete hardware specs
 - AMD Ryzen 5950X
@@ -52,3 +52,6 @@
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [BASE EFI AMD - Ryzen and Threadripper (1XXX, 2XXX, 3XXX, 4XXX, 5XXX)](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER)
+
+## Discord - Universo Hackintosh
+- [Access Discord](https://discord.universohackintosh.com.br)
