@@ -2,9 +2,9 @@
 
 ![About This Mac - Overview](https://user-images.githubusercontent.com/23700365/136425298-61e799ff-7392-448f-8f28-637d4d83c6c5.png)
 
-**Latest working macOS**: 12.1
+**Latest working macOS**: 12.2.1
 <br>
-**Current OpenCore**: 0.7.7
+**Current OpenCore**: 0.7.9
 
 ## Complete hardware specs
 - AMD Ryzen 5950X
