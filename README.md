@@ -1,4 +1,4 @@
-# Gigabyte X570 Aorus Master + 5950X + AsRock RX 580 8GB
+# Gigabyte X570 Aorus Master + 5950X + RX 580 8GB
 
 ![About This Mac - Overview](https://user-images.githubusercontent.com/23700365/136425298-61e799ff-7392-448f-8f28-637d4d83c6c5.png)
 
